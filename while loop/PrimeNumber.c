@@ -1,0 +1,1 @@
+//WAP to check a number is prime or not 
